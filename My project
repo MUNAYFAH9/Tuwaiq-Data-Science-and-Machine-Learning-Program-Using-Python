@@ -1,0 +1,11 @@
+In this project, I performed data analysis using Python, focusing specifically on discovering correlations between different variables to identify factors that significantly 
+impact the target outcome. I started by cleaning and analyzing the data using a correlation matrix, which allowed me to understand the interrelationships between variables.
+Additionally, I explored the difference between correlation and causation to pinpoint which variables were strongly correlated and potentially influential in future 
+predictions.
+
+A key part of this project involved applying machine learning, where I selected important variables for the training model.
+While I haven't fully completed training the model yet, I am very happy with the progress made so far.
+
+I would like to express my deep gratitude to Tuwaiq Academy for giving me this wonderful opportunity to learn and grow in the field of 
+data science and machine learning using Python.
+
